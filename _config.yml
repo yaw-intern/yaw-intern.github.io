@@ -1,0 +1,4 @@
+theme: jekyll-theme-Hacker
+permissions:
+  id-token: write
+  pages: write
