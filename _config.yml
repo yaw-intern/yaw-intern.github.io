@@ -1,4 +1,4 @@
-theme: jekyll-theme-Hacker
+remote_theme: jekyll-theme-chirpy
 permissions:
   id-token: write
   pages: write
