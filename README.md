@@ -7,4 +7,4 @@ I am a currently leading product development at Matterhorn Studio, working on a 
 Web Developer @ Matterhorn Studio
 
 ## Education
-BSc Computer Science  
+BSc Computer Science - The University of Kent  
