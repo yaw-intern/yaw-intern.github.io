@@ -1,4 +1,6 @@
 remote_theme: jekyll-theme-chirpy
+title: Nathan Abuaku
+#logo: /assets/img/headshot.jpg
 permissions:
   id-token: write
   pages: write
