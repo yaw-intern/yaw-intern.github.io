@@ -1,5 +1,5 @@
 ## Introduction
-I am a currently leading product development at Matterhorn Studio, working on a machine learning software to aid experimentation within the pharma industry.
+Hi! I'm a backend developer currently working as the product/lead and developer at Matterhorn Studio, building an interface for a machine learning algorithm that accelerates high-throughput experimentation in the pharma industry. 
 
 ## Projects
 
