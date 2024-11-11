@@ -1,14 +1,24 @@
 ## Introduction
-Hi! I'm a backend developer currently working as the product/lead and developer at Matterhorn Studio, building an interface for a machine learning algorithm that accelerates high-throughput experimentation in the pharma industry. 
+Hi! I'm a backend developer currently working as the product lead and developer at Matterhorn Studio, building an interface for a machine learning algorithm that accelerates high-throughput experimentation in the pharma industry. I completed my undergrad in computer science in 2023, I have most of my experience in back-end web development as well as software development in Java. 
 
-## Projects
+Outside of programming, I model and have done for three years now, I've featured in Milan and London fashion week shows as well as Dazed magazine, I also enjoy videography, and online gaming, usually Counter Strike 2 with my friends, and sim racing in iRacing or Assetto Corsa Competizione.
+
 
 ## Experience
 Web Developer @ Matterhorn Studio
 
 ## Education
+BSc Computer Science (Artificial Intelligence) - University of Kent
+
+
+## Projects
+
+
+
+## Education
 BSc Computer Science - The University of Kent  
 
+## Technologies
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
