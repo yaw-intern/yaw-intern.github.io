@@ -12,8 +12,8 @@ BSc Computer Science (Artificial Intelligence) - University of Kent
 
 
 ## Projects
-GP Booking System (Java) - 2020-2021
-Naïve Bayes Spam Classification Model (Python) - 2023
+GP Booking System (Java) - 2020-2021 <br>
+Naïve Bayes Spam Classification Model (Python) - 2023 <br>
 
 
 
