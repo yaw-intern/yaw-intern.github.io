@@ -1,7 +1,7 @@
 ## Introduction
-Hi! I'm a backend developer currently working as the product lead and developer at Matterhorn Studio, building an interface for a machine learning algorithm that accelerates high-throughput experimentation in the pharma industry. I completed my undergrad in computer science in 2023, I have most of my experience in back-end web development as well as software development in Java. 
+Hi! I'm a backend developer currently working as a software engineer at Matterhorn Studio, building an interface for a machine learning algorithm that accelerates high-throughput experimentation in the pharma industry. I completed my undergrad in computer science in 2023, I have most of my experience in back-end web development as well as software development in Java. 
 
-Outside of programming, I model and have done for three years now, I've featured in Milan and London fashion week shows as well as Dazed magazine. I also enjoy videography, skateboarding, and online gaming, usually Counter Strike 2 with my friends and sim racing in iRacing or Assetto Corsa Competizione. A.
+Outside of programming, I model and have done for three years now, I've featured in Milan and London fashion week shows as well as Dazed magazine. I also enjoy videography, skateboarding, and online gaming, usually Counter Strike 2 with my friends and sim racing in iRacing or Assetto Corsa Competizione.
 
 
 ## Experience
